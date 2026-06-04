@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajitsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="surajitsahoo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajitsahoo" alt="surajitsahoo" /></a> </p>
+<p align="left"> <a href=""><img src="" alt="surajitsahoo" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot, React**
 
