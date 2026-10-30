@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 
-- 🌱 I’m currently learning **SpringBoot, React**
+- 🌱 I’m currently learning **SpringBoot, Microservices, Apache Kafka, React**
 
 - 💬 Ask me about **spring boot,docker,react**
 
 - 📫 How to reach me **surajitsahoo200@gmail.com**
 
-- ⚡ Fun fact **I love playing**
+- ⚡ Fun fact **I love photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
